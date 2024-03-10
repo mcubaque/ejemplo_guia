@@ -28,23 +28,23 @@
      - Aplicación de restricciones para garantizar la integridad de los datos.
 
 #### 3. Clausulas DML (Data Manipulation Language):
-   - **Consultas SELECT**:
+   - [**Consultas SELECT**:](#Consultas-SELECT)
      - Sintaxis básica de la instrucción SELECT.
      - Uso de proyección, filtrado, ordenamiento y limitación de resultados.
-   -**Joins:**:
+   - [**Joins:**:](#Joins)
      - Introducción a los Joins y su utilidad para combinar datos de múltiples tablas.
      - Tipos de Joins: INNER JOIN, LEFT JOIN, RIGHT JOIN y FULL JOIN.
      - Ejemplos de uso de Joins para realizar consultas que involucren múltiples tablas.
 
-   - **Inserción de datos**:
+   - [**Inserción de datos**:](#Inserción-de-datos)
      - Sintaxis de la instrucción INSERT INTO.
      - Inserción de nuevos registros en una tabla.
 
-   - **Actualización de datos**:
+   - [**Actualización de datos**:](#Actualización-de-datos)
      - Sintaxis de la instrucción UPDATE.
      - Modificación de registros existentes en una tabla.
 
-   - **Eliminación de datos**:
+   - [**Eliminación de datos**:](#Eliminación-de-datos)
      - Sintaxis de la instrucción DELETE FROM.
      - Eliminación de registros de una tabla.
 
