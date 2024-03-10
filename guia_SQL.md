@@ -509,7 +509,7 @@ En resumen, utilizar la instrucción `DELETE FROM` sin una cláusula `WHERE` pue
    - Para confirmar los cambios y hacerlos permanentes en la base de datos, se utiliza la instrucción `COMMIT`, y para deshacerlos y restaurar el estado anterior, se utiliza la instrucción `ROLLBACK`.
    - El control de concurrencia se refiere a cómo se gestionan las transacciones concurrentes para evitar problemas como lecturas sucias, escrituras perdidas y lecturas fantasma. Se utilizan técnicas como bloqueos y niveles de aislamiento para garantizar la integridad de los datos.
 
-2. **Índices y Optimización de Consultas**:
+#### **Índices y Optimización de Consultas**:
    - Los índices en SQL son estructuras de datos que se utilizan para acelerar la búsqueda y recuperación de datos en tablas grandes.
    - La sintaxis para crear un índice en una columna específica es la siguiente:
      ```sql
@@ -518,7 +518,7 @@ En resumen, utilizar la instrucción `DELETE FROM` sin una cláusula `WHERE` pue
    - Los índices pueden mejorar el rendimiento de las consultas al permitir un acceso más rápido a los datos. Sin embargo, también pueden afectar el rendimiento de las operaciones de inserción, actualización y eliminación.
    - La optimización de consultas implica diseñar consultas eficientes y utilizar índices de manera efectiva para minimizar el tiempo de respuesta y maximizar el rendimiento del sistema de gestión de bases de datos.
 
-3. **Vistas y Procedimientos Almacenados**:
+#### **Vistas y Procedimientos Almacenados**:
    - Las vistas en SQL son consultas predefinidas que se almacenan en la base de datos y se pueden utilizar como tablas virtuales.
    - La sintaxis para crear una vista es la siguiente:
      ```sql
@@ -537,7 +537,7 @@ En resumen, utilizar la instrucción `DELETE FROM` sin una cláusula `WHERE` pue
      END;
      ```
 
-4. **Funciones de Agregación**:
+#### **Funciones de Agregación**:
    - Las funciones de agregación en SQL, como SUM, AVG, COUNT, MIN y MAX, se utilizan para realizar cálculos sobre conjuntos de datos.
    - Por ejemplo, para calcular el total de una columna, se puede usar la función SUM de la siguiente manera:
 4.1 **SUM()**:
@@ -602,7 +602,7 @@ En resumen, utilizar la instrucción `DELETE FROM` sin una cláusula `WHERE` pue
 
 Estas son algunas de las funciones de agregación más utilizadas en SQL. Son útiles para realizar cálculos sobre conjuntos de datos y obtener información resumida de una tabla.
 
-5. **Subconsultas**:
+#### **Subconsultas**:
    - Las subconsultas en SQL son consultas anidadas dentro de otra consulta.
    - Por ejemplo, para obtener el nombre de un empleado y el nombre de su departamento, se puede utilizar una subconsulta de la siguiente manera:
      ```sql
@@ -611,21 +611,21 @@ Estas son algunas de las funciones de agregación más utilizadas en SQL. Son ú
      FROM employees;
      ```
 
-6. **Expresiones Regulares**:
+#### **Expresiones Regulares**:
    - Las expresiones regulares en SQL son patrones de búsqueda flexibles que se utilizan para encontrar cadenas de texto que coincidan con un patrón específico.
    - Por ejemplo, para buscar todos los nombres de empleados que comiencen con "A", se puede usar una expresión regular de la siguiente manera:
      ```sql
      SELECT employee_name FROM employees WHERE employee_name REGEXP '^A';
      ```
 
-7. **Seguridad y Permisos**:
+#### **Seguridad y Permisos**:
    - La seguridad en SQL se refiere a la gestión de permisos de acceso a tablas y vistas, así como a la creación y asignación de roles de usuario.
    - Por ejemplo, para otorgar permisos de lectura a un usuario en una tabla, se puede usar la siguiente sintaxis:
      ```sql
      GRANT SELECT ON table_name TO user_name;
      ```
 
-8. **Funciones de Ventana**:
+#### **Funciones de Ventana**:
    - Las funciones de ventana en SQL son funciones analíticas avanzadas que se utilizan para realizar cálculos sobre un conjunto de filas específico.
    - Por ejemplo, para calcular el promedio móvil de ventas por mes, se puede utilizar la función WINDOW AVG de la siguiente manera:
      ```sql
@@ -634,7 +634,7 @@ Estas son algunas de las funciones de agregación más utilizadas en SQL. Son ú
      FROM sales_data;
      ```
 
-9. **Manejo de Errores y Excepciones**:
+#### **Manejo de Errores y Excepciones**:
    - El manejo de errores en SQL implica capturar y manejar errores durante la ejecución de consultas y transacciones.
    - Por ejemplo, para capturar un error durante la ejecución de una consulta y manejarlo, se puede utilizar un bloque TRY-CATCH de la siguiente manera:
      ```sql
