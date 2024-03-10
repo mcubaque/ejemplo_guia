@@ -49,7 +49,7 @@
      - Eliminación de registros de una tabla.
 
 #### 4. Temas adicionales:
-   - [Transacciones y control de concurrencia.](#**Transacciones-y-control-de-concurrencia**)
+   - [Transacciones y control de concurrencia.](#Transacciones-y-control-de-concurrencia)
    - [Índices y optimización de consultas.](#Índices-y-optimización-de-consultas)
    - [Vistas y procedimientos almacenados.](#Vistas-y-procedimientos-almacenados)
    - [Funciones de agregación.](#Funciones-de-agregación)
@@ -500,7 +500,7 @@ En resumen, utilizar la instrucción `DELETE FROM` sin una cláusula `WHERE` pue
 
 ### Temas Adicionales en SQL:
 
-1. **Transacciones y Control de Concurrencia**:
+#### **Transacciones y Control de Concurrencia**:
    - Las transacciones en SQL son secuencias de operaciones que se ejecutan como una sola unidad lógica de trabajo. Se utilizan para garantizar la consistencia y la integridad de los datos, incluso en entornos multiusuario.
    - La sintaxis para iniciar una transacción es la siguiente:
      ```sql
