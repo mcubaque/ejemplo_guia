@@ -3,7 +3,7 @@
 #### 1. Introducción a SQL:
    - [¿Qué es SQL?](#qué-es-sql)
    - [Breve historia y evolución de SQL.](#Breve-historia-y-evolución-de-SQL)
-   - Importancia y aplicaciones de SQL en el desarrollo de bases de datos.
+   - [Importancia y aplicaciones de SQL en el desarrollo de bases de datos.](#Importancia-y-aplicaciones-de-SQL-en-el-desarrollo-de-bases-de-datos)
 
 #### 2. Clausulas DDL (Data Definition Language):
    - **Creación de una base de datos**:
