@@ -15,15 +15,15 @@
      - Definición de columnas, tipos de datos y restricciones.
      - Ejemplos de creación de tablas simples y complejas.
 
-   - **Modificación de tablas**:
+   - [**Modificación de tablas**:](#Modificación-de-tablas)
      - Uso de la instrucción ALTER TABLE para modificar la estructura de una tabla.
      - Agregar, modificar y eliminar columnas y restricciones.
 
-   - **Eliminación de tablas**:
+   - [**Eliminación de tablas**:](#Eliminación-de-tablas)
      - Sintaxis de la instrucción DROP TABLE.
      - Consideraciones sobre la eliminación permanente de tablas y la realización de copias de seguridad.
 
-   - **Restricciones de integridad**:
+   - [**Restricciones de integridad**:](#Restricciones-de-integridad)
      - Tipos de restricciones de integridad: PRIMARY KEY, FOREIGN KEY, UNIQUE y CHECK.
      - Aplicación de restricciones para garantizar la integridad de los datos.
 
