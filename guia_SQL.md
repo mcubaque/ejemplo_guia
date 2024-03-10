@@ -113,8 +113,6 @@ En resumen, SQL es un lenguaje poderoso y versátil que se utiliza ampliamente e
 
 - **Continua relevancia**: A pesar de la aparición de nuevas tecnologías y enfoques de gestión de datos, SQL sigue siendo fundamental en el ámbito de las bases de datos relacionales. Su claridad, simplicidad y versatilidad lo convierten en un lenguaje esencial para los desarrolladores y profesionales de datos en todo el mundo.
 
-Aquí tienes el contenido sobre la importancia y las aplicaciones de SQL en el desarrollo de bases de datos que podrías incluir en tu curso:
-
 ### Importancia y aplicaciones de SQL en el desarrollo de bases de datos
 
 #### Importancia de SQL:
