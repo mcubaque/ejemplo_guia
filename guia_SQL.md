@@ -85,10 +85,6 @@ SQL, o Structured Query Language, es un lenguaje de programación utilizado para
 
 En resumen, SQL es un lenguaje poderoso y versátil que se utiliza ampliamente en la gestión y manipulación de bases de datos relacionales en una variedad de aplicaciones y entornos de desarrollo.
 
-Aquí tienes el contenido sobre la breve historia y evolución de SQL que podrías incorporar en tu curso:
-
----
-
 ### Breve historia y evolución de SQL
 
 #### Orígenes de SQL:
