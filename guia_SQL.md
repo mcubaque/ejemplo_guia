@@ -62,7 +62,7 @@
 
 ### ¿Qué es SQL?
 
-SQL, o Structured Query Language, es un lenguaje de programación utilizado para gestionar y manipular bases de datos relacionales. Fue desarrollado originalmente en la década de 1970 por IBM y se ha convertido en un estándar de facto para el acceso y la manipulación de datos en bases de datos relacionales.
+SQL, o Structured Query Language, es un lenguaje de consulta utilizado para gestionar y manipular bases de datos relacionales. Fue desarrollado originalmente en la década de 1970 por IBM y se ha convertido en un estándar de facto para el acceso y la manipulación de datos en bases de datos relacionales.
 
 #### Características principales de SQL:
 
