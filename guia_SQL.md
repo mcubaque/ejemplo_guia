@@ -1,4 +1,4 @@
-### Curso de SQL:
+### Guía de SQL:
 
 #### 1. Introducción a SQL:
    - [¿Qué es SQL?](#qué-es-sql)
