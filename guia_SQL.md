@@ -6,11 +6,11 @@
    - [Importancia y aplicaciones de SQL en el desarrollo de bases de datos.](#Importancia-y-aplicaciones-de-SQL-en-el-desarrollo-de-bases-de-datos)
 
 #### 2. Clausulas DDL (Data Definition Language):
-   - **Creación de una base de datos**:
+   - [**Creación de una base de datos**:](#Creación-de-una-base-de-datos)
      - Sintaxis de la instrucción CREATE DATABASE.
      - Consideraciones al definir una nueva base de datos.
 
-   - **Creación de tablas**:
+   - [**Creación de tablas**:](#Creación-de-tablas)
      - Sintaxis de la instrucción CREATE TABLE.
      - Definición de columnas, tipos de datos y restricciones.
      - Ejemplos de creación de tablas simples y complejas.
