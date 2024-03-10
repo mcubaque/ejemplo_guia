@@ -49,7 +49,7 @@
      - Eliminación de registros de una tabla.
 
 #### 4. Temas adicionales:
-   - [Transacciones y control de concurrencia.](#Transacciones-y-control-de-concurrencia)
+   - [Transacciones y control de concurrencia.](#**Transacciones-y-control-de-concurrencia**)
    - [Índices y optimización de consultas.](#Índices-y-optimización-de-consultas)
    - [Vistas y procedimientos almacenados.](#Vistas-y-procedimientos-almacenados)
    - [Funciones de agregación.](#Funciones-de-agregación)
