@@ -49,15 +49,15 @@
      - Eliminación de registros de una tabla.
 
 #### 4. Temas adicionales:
-   - Transacciones y control de concurrencia.
-   - Índices y optimización de consultas.
-   - Vistas y procedimientos almacenados.
-   - Funciones de agregación.
-   - Subconsultas.
-   - Expresiones regulares.
-   - Seguridad y permisos.
-   - Funciones de ventana.
-   - Manejo de errores y excepciones.
+   - [Transacciones y control de concurrencia.](#Transacciones-y-control-de-concurrencia)
+   - [Índices y optimización de consultas.](#Índices-y-optimización-de-consultas)
+   - [Vistas y procedimientos almacenados.](#Vistas-y-procedimientos-almacenados)
+   - [Funciones de agregación.](#Funciones-de-agregación)
+   - [Subconsultas.](#Subconsultas)
+   - [Expresiones regulares.](#Expresiones-regulares)
+   - [Seguridad y permisos.](#Seguridad-y-permisos)
+   - [Funciones de ventana.](#Funciones-de-ventana)
+   - [Manejo de errores y excepciones.](#Manejo-de-errores-y-excepciones)
 
 
 ### ¿Qué es SQL?
