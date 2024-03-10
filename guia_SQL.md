@@ -1,7 +1,7 @@
 ### Curso de SQL:
 
 #### 1. Introducción a SQL:
-   - [¿Qué es SQL?](###¿Qué es SQL?)
+   - [¿Qué es SQL?](###¿Qué-es-SQL?)
    - Breve historia y evolución de SQL.
    - Importancia y aplicaciones de SQL en el desarrollo de bases de datos.
 
